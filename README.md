@@ -1,4 +1,4 @@
-# Buy-rent-kenya-project-Scraping-
+# Buy-rent-kenya-project-Scraping- At LUXDEVHQ Workshop
 # Web Scraping for Real Estate Data & Power BI Dashboard
 
 This project demonstrates how to scrape real estate data from [BuyRentKenya](https://www.buyrentkenya.com), store it in a PostgreSQL database, and visualize it in Power BI. The workshop was conducted at LUXDEVHQ.
